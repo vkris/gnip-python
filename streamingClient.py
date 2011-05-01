@@ -1,3 +1,5 @@
+# Class Client shamelessly copied from 
+# http://arstechnica.com/open-source/guides/2010/04/tutorial-use-twitters-new-real-time-stream-api-in-python.ars/2
 import pycurl
 import os,sys
 #import simplejson as json
