@@ -1,3 +1,6 @@
 Use this code to get streaming tweets from GNIP. 
 
 No installation necessary.  Just fill in your credentials/configurations in the code and start using it right away!
+
+If you are finding it difficult to get aws and scribe logger, just comment import scribe and import aws and the line starting 
+with logger and run the script.
