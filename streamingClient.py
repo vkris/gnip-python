@@ -15,7 +15,6 @@ from aws import Aws
 from scribe_logger.scribe_logger import Scribe_logger
 
 #sudo apt-get install python-pycurl if necessary.  This version of pycurl works for python2.5 only.
-#The below line does not seem to work. My have to set this path manually
 
 STREAM_URL = "Your GNIP URL goes here."
 USER = "username"  
